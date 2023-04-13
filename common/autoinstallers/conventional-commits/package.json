@@ -1,0 +1,10 @@
+{
+  "name": "conventional-commits",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@commitlint/cli": "^17.5.1",
+    "@commitlint/config-conventional": "^17.4.4",
+    "commitizen": "^4.3.0"
+  }
+}
